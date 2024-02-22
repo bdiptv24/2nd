@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Star Play | Live Sports</title>
+    <meta name="robots" content="noindex,nofollow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+        body {
+            margin: 0;
+        }
+
+        .jwplayer {
+            position: absolute !important;
+        }
+
+        .jwplayer.jw-flag-aspect-mode {
+            min-height: 100%;
+            max-height: 100%;
+        }
+
+        .jw-logo-container {
+            position: absolute;
+            top: 2%;
+            right: 55%;
+        }
+    </style>
+</head>
+<body>
+    <script disable-devtool-auto='true' src='https://cdn.jsdelivr.net/npm/disable-devtool' clear-log='true'
+        disable-select='true' disable-copy='true' disable-cut='true' disable-paste='true'></script>
+    <script src="https://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
+    <script>
+        jwplayer.defaults = jwDefaults;
+    </script>
+
+    <div id="myPlayer" class="jwplayer jw-reset jw-state-idle" style="width: 100%; height: 100%;"></div>
+
+    <script type="text/JavaScript" defer>
+        window.onload = function () {
+            fetch('ch.json')
+                .then(response => response.json())
+                .then(channels => {
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const channelName = urlParams.get('tv');
+                    const m3u8Source = channels[channelName];
+                    if (m3u8Source) {
+                        jwplayer("myPlayer").setup({
+                            autostart: true,
+                            volume: "100",
+                            mute: false,
+                            pipIcon: "enabled",
+                            title: "STAR PLAY",
+                            logo: {
+                                file: "https://imgtr.ee/images/2023/12/26/1ce485d929f0c4b3bdef1810f915a21d.png",
+                                hide: "false"
+                            },
+                            file: m3u8Source
+                        });
+                    } else {
+                        console.error("M3U8 source not provided in the URL parameters or invalid channel name.");
+                    }
+                })
+                .catch(error => console.error('Error fetching channels:', error));
+        }
+    </script>
+</body>
+</html>
