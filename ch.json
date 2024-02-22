@@ -1,12 +1,17 @@
 {
-  "channel1": "http://server.sibfungold.info:8080/live/Mooniptv2021/bJDdkRxbGBplTGbzZmiV/48447.m3u8",
-  "channel2": "https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/index.m3u8",
+  "live": "https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8?uuid=FFAAFFFF-6117-35e6-ff51-b91bc2f55d44",
+  "live2": "https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/index.m3u8",
   "gtv": "http://103.142.80.22:8080/GAZI/index.m3u8",
   "tsports": "http://103.142.80.22:8080/Channel-2/index.m3u8",
-  "psl": "https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8?uuid=FFAAFFFF-6117-35e6-ff51-b91bc2f55d44",
-  "ten5": "http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8",
-  "channel7": "https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=18468&e=.m3u8",
-  "channel8": "https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=22158&e=.m3u8",
-  "channel9": "https://corsproxy.io/?http://berkeleian-thins.000webhostapp.com/E-STALKER-PORTEL/play.m3u8?id=4625",
-  "channel10": "https://bolt.toxic-gang.xyz/apiz/cric/index.php?id=willowusa&e=.m3u8"
+  channelsi": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8",
+  "atnbangla": "https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8",
+  "rtv": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8",
+  "satv": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8",
+  "deepto": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8",
+  "mohona": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8",
+"mytv": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8",
+  "bv": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8",
+  "boishakhi": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8",
+  "ekushey": "https://ekusheyserver.com/etvlivesn.m3u8",
+  "tbn": "https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8"
 }
