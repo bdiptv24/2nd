@@ -39,7 +39,7 @@
     <div id="live-player"></div>
     <script type="text/javascript">
         window.onload = function () {
-            fetch('channels.json')
+            fetch('ch.json')
             .then(response => response.json())
             .then(channels => {
                 const urlParams = new URLSearchParams(window.location.search);
