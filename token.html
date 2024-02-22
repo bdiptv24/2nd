@@ -7,13 +7,11 @@
     <title>Live Player</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/clappr/latest/clappr.css">
-   <script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@clappr/hlsjs-playback@1.0.1/dist/hlsjs-playback.min.js"></script>
 
-
-   <script type="text/javascript" src="https://cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/@clappr/hlsjs-playback@1.0.1/dist/hlsjs-playback.min.js"></script>
-
-   <style type="text/css" media="screen" charset="utf-8">
+    <style type="text/css" media="screen" charset="utf-8">
         #live-player {
             position: fixed !important;
             position: absolute;
@@ -55,7 +53,7 @@
                         watermark: 'https://i.ibb.co/VMwb7DY/20231223-092825-0000.png',
                         position: 'top-right',
                         autoPlay: true,
- plugins: [HlsjsPlayback, LevelSelector],
+                        plugins: [HlsjsPlayback, LevelSelector],
                     });
                 } else {
                     console.error("TV source not provided in the URL parameters or invalid channel name.");
