@@ -3,10 +3,10 @@
   "channel2": "https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/index.m3u8",
   "gtv": "http://103.142.80.22:8080/GAZI/index.m3u8",
   "tsports": "http://103.142.80.22:8080/Channel-2/index.m3u8",
-  " psl": "https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8?uuid=FFAAFFFF-6117-35e6-ff51-b91bc2f55d44",
+  "psl": "https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8?uuid=FFAAFFFF-6117-35e6-ff51-b91bc2f55d44",
   "ten5": "http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8",
   "channel7": "https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=18468&e=.m3u8",
   "channel8": "https://corsproxy.io/?http://tgaadi-web.tech/play.php?id=22158&e=.m3u8",
- "channel9": "https://corsproxy.io/?http://berkeleian-thins.000webhostapp.com/E-STALKER-PORTEL/play.m3u8?id=4625",
-"channel10": "https://bolt.toxic-gang.xyz/apiz/cric/index.php?id=willowusa&e=.m3u8"
+  "channel9": "https://corsproxy.io/?http://berkeleian-thins.000webhostapp.com/E-STALKER-PORTEL/play.m3u8?id=4625",
+  "channel10": "https://bolt.toxic-gang.xyz/apiz/cric/index.php?id=willowusa&e=.m3u8"
 }
