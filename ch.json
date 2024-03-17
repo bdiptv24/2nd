@@ -21,8 +21,11 @@
   "news24": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8",
   "dbc": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8",
   "amarbangla": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8",
+  "maasranga": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=19827&e=.m3u8",
+ "ekattor": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=11901&e=.m3u8",
   "disban": "https://corsproxy.io/?https://starplay2.netlify.app/m3u%2Fdiscoverybengali.m3u8",
   "ap": "https://corsproxy.io/?https://starplay2.netlify.app/m3u%2FAnimal_Planet.m3u8",
+  "nageo": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=340&e=.m3u8",
   "tlc": "https://corsproxy.io/?https://starplay2.netlify.app/m3u%2FTLC.m3u8",
   "ekhon": "https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8",
   "green": "https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8",
@@ -51,6 +54,7 @@
   "sonyten3": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=23818&e=.m3u8",
   "starsports1": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=18295&e=.m3u8",
   "starsports2": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=7458&e=.m3u8",
+  "starhindi": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=22148&e=.m3u8",
   "sps1": "https://corsproxy.io/?https://plx.iptv18.tech/push.php?id=22145&e=.m3u8",
   "sps2": "http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2507/index.m3u8"
 }
