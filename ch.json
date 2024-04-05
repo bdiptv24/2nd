@@ -52,9 +52,9 @@
   "sonyten1": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1103&e=.m3u8",
   "sonyten2": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1104&e=.m3u8",
   "sonyten3": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1105&e=.m3u8",
-  "starsports1": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1088&e=.m3u8",
-  "starsports2": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1450&e=.m3u8",
-  "starhindi": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1966&e=.m3u8",
+  "starsports1": "https://corsproxy.io/?http://public.iptv18.tech/p1uiop.php?id=57154&e=.m3u8",
+  "starsports2": "https://corsproxy.io/?http://public.iptv18.tech/p1uiop.php?id=45699&e=.m3u8",
+  "starhindi": "https://corsproxy.io/?http://public.iptv18.tech/p1uiop.php?id=54059&e=.m3u8",
   "sps1": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/ditto.php?tv=1451&e=.m3u8",
   "sps2": "http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/2507/index.m3u8"
 }
