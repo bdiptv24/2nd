@@ -1,7 +1,7 @@
 {
   "live": "http://176.119.29.52/live/00:1A:79:17:BD:79/8B83484C00326/48010.m3u8",
   "live2": "https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/index.m3u8",
-  "gtv": "https://corsproxy.io/?http://public.iptv18.tech/push.php?id=11892&e=.m3u8",
+  "gtv": "https://corsproxy.io/?https://aadi-tg.000webhostapp.com/api/play.php?tv=58015&e=.m3u8",
   "tsports": "https://corsproxy.io/?http://public.iptv18.tech/push.php?id=23937&e=.m3u8",
   "channeli": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8",
   "atnbangla": "https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8",
